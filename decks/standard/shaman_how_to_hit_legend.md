@@ -1,0 +1,32 @@
+Shaman
+- Lightning Bolt
+- Lightning Bolt
+- Tunnel Trogg
+- Tunnel Trogg
+- Devolve
+- Flametongue Totem
+- Flametongue Totem
+- Jade Claws
+- Jade Claws
+- Mealstrom Portal
+- Maelstrom Portal
+- Totem Golem
+- Totem Golem
+- Feral Spirit
+- Feral Spirit
+- Hex
+- Hex
+- Lightning Storm
+- Defender of Argus
+- Jade Lightning
+- Jade Lightning
+- Jinyu Waterspeaker
+- Bloodlust
+- Thing from Below
+- Thing from Below
+
+Neutral
+- Faerie Dragon
+- Azure Drake
+- Azure Drake
+- Aya Blackpaw
